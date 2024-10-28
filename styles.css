@@ -1,0 +1,40 @@
+body {
+    color: black;
+    background: pink;
+    margin: 1px;
+    font-family: "Playfair Display", serif;
+}
+
+header {
+      border-bottom: solid 2px black;
+      margin: 10px;
+      font-size: 26px;
+}
+
+h1{
+    font-size: x-large;
+}
+
+h2{
+    font-size: x-large;
+}
+
+h3{
+    font-size: x-large;
+}
+
+h4{
+    font-size: x-large;
+}
+
+h5{
+    font-size: x-large;
+}
+
+h6{
+    font-size: x-large;
+}
+
+p{
+    font-size: 23px;
+}
